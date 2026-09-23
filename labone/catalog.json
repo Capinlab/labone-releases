@@ -1,0 +1,5 @@
+{
+  "payload": "{\n  \"formatVersion\": 1,\n  \"releases\": [\n    {\n      \"version\": \"0.3.0\",\n      \"releaseCommit\": \"badf9f648aaa7da6d5849e8b18ba657a2a6daea6\",\n      \"publishedAt\": \"2026-09-23T01:19:07.484Z\",\n      \"channel\": \"INTERNAL\",\n      \"kind\": \"FEATURE\",\n      \"notes\": \"Update Execution Foundation 1 — INTERNAL; physical gate pending.\",\n      \"securityCritical\": false,\n      \"withdrawn\": false,\n      \"platform\": \"docker-compose\",\n      \"artifactUrl\": \"https://releases.capinlab.com/labone/releases/0.3.0/manifest.json\",\n      \"manifestSha256\": \"d5d3d6a01543207785e2145ced0fe07c7aed0c944798d430f439db436448c805\",\n      \"artifactSha256\": \"391a4b6a39c4d4598890d08720b5f343694eb1a86f464c5627637682a70c5917\",\n      \"migrationCount\": 151\n    }\n  ]\n}\n",
+  "signature": "qG8C+RsogPN2F3B2Opt+8ghd9k4pzV+P6AIgdLXkMn9lKgkcvWZ3gi7jEapFVD9EIfnTNMWhx9oJ/ut8pgO+Aw==",
+  "keyId": "capinlab-internal-2026-09-v1"
+}
